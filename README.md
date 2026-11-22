@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @omarafifi101
-- 👀 I’m interested in ....
-- 🌱 I’m currently learning computer science in nile university egypt
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : omarafifi634@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, I’m @omarafifi
+- I’m interested in software engineering and data science 
+- I’m a junior computer science student at nile university egypt
+- How to reach me : omarafifi634@gmail.com
+
 
 <!---
 omarafifi101/omarafifi101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
